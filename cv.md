@@ -8,6 +8,8 @@ Email:                    alexander.stanevko@yandex.by
 
 Telegram:                 https://t.me/Dardawill
 
+CV:                       https://github.com/AlexanderStanevko/rsschool-cv/blob/gh-pages/cv.md
+
 Professional summary
 ---------
 I am a frontend developer, with a great desire to learn new technologies to make my interesting projects a reality. 
@@ -47,6 +49,7 @@ Job responsibilities:
 For several years I have been active in freelance work. Mainly I develop the visual part of the applications, but sometimes I act as a backend developer on Node.js. The visual part I develop mainly in Vue.js. Experience in multilingual team.
 
 Skills:
+----------
 
   * JavaScript;
   * HTML,
@@ -66,14 +69,9 @@ Skills:
 
 
 
-[ref]: 
-
-
-----------------------------------------
-
-* Languages:
-
-     * English (B2)
-     * Russian (Naive)
-     * Belarussian (Native)
-     * Italian (A1)
+Languages:
+----------
+ * English (B2)
+ * Russian (Naive)
+ * Belarussian (Native)
+ * Italian (A1)
