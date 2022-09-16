@@ -66,9 +66,9 @@ Skills:
 
 
 
-[ref]: https://github.com/githubuser/superlongprojectname
+[ref]: 
 
-Extra Section, Call it Whatever You Want
+
 ----------------------------------------
 
 * Languages:
@@ -77,7 +77,3 @@ Extra Section, Call it Whatever You Want
      * Russian (Naive)
      * Belarussian (Native)
      * Italian (A1)
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
